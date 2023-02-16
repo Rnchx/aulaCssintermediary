@@ -1,0 +1,30 @@
+#header_style{
+    text-align: center;
+    background-color:rgba(254, 174, 15, 0.55);
+    padding: 10px;
+}
+.style_a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 12px;
+    font-family: Verdana;
+}
+#style_ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0%;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+body{
+    margin: 0%;
+}
+li{
+    margin-left: 10px;
+}
+a:hover{
+    background-color: rgba(240, 248, 255, 0.397);
+}

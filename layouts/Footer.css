@@ -1,0 +1,17 @@
+#style_footer{
+    background-color: rgba(254, 174, 15, 0.55);
+    text-align: center;
+    margin: 0%;
+}
+body{
+    margin: 0%;
+}
+#style_p_footer{
+    color: aliceblue;
+    font-family: Verdana;
+    font-size: 15px;
+}
+footer{
+    margin: 0%;
+    padding: 0%;
+}

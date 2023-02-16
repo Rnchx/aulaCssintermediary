@@ -1,0 +1,98 @@
+body{
+    background-color:peru;
+    margin: 0%;
+    background-image: url(https://i.pinimg.com/originals/7d/98/84/7d98840fdff1b2e7cd508cc7f3a17403.jpg);
+    background-size:cover;
+}
+header{
+    background-color:peru;
+    padding: 20px;
+    opacity:0.8;
+    text-align: center;
+}
+#site_style_title{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: Cambria;
+    text-align: center;
+}
+#title_colors{
+    font-family: monospace;
+    font-size: 20px;
+    color:whitesmoke;
+    border-left: 4px solid azure;
+    padding: 4px;
+}
+.style_divs{
+    padding: 20px;
+}
+.style_hrs{
+    background-color:darkgoldenrod;
+    height: 1px;
+    border: 0;  
+}
+#dsc_title_colors{
+    color: azure;
+    font-size: 13px;
+    font-family: monospace;
+}
+#title_comands{
+    font-family: monospace;
+    font-size: 20px;
+    color:whitesmoke;
+    border-left: 4px solid azure;
+    padding: 4px;
+}
+#dsc_title_comands{
+    color: azure;
+    font-size: 13px;
+    font-family: monospace;
+}
+#title_how_to_use{
+    font-family: monospace;
+    font-size: 20px;
+    color:whitesmoke;
+    border-left: 4px solid azure;
+    padding: 4px;
+}
+#dsc_title_how_to_use{
+    color: azure;
+    font-size: 13px;
+    font-family: monospace;
+}
+.caption_image{
+    font-size: 17px;
+    font-family:Cambria;
+    color: azure;
+    text-align: center;
+    text-decoration:underline;
+}
+#style_image_css{
+    text-align: center;
+}
+#border_image{
+    border-style: solid;
+    border-width: 2px;
+}
+table, th, td{
+    border:1px solid azure;
+    border-collapse: collapse;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+    color: azure;
+    font-family: Cambria;
+  }
+  #style_desc_image_2{
+    color: azure;
+    font-family: monospace;
+    font-size: 17px;
+  }
+#style_border_image_2{
+    border-style:1px solid ;
+}
+footer{
+    color: rgba(254, 174, 15, 0.55);
+    margin: 0%;
+}
